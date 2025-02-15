@@ -1,0 +1,16 @@
+:root {
+    --h1: 50px;
+    --h2: 28px;
+    --h3: 22px;
+    --text-L: 20px;
+    --text-M: 18px;
+    --text-S: 16px;
+
+    --main-bg: #00295d;
+
+    --color-accent: white;
+    --color-secondary: #0053bf;
+
+    --text-tertiary: rgb(200, 200, 200);
+    
+}
